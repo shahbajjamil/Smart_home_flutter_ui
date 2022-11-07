@@ -1,16 +1,17 @@
-# smart_home_flutter_ui
+# Smart Home Flutter UI
 
-A new Flutter project.
+![Smart Home Part](./Smart_Home_Part.jpg)
 
-## Getting Started
+Smart Home app #UI using #flutter to showcase an ability to control devices at home through Smartphone. On the Home page, you will get all users who can access the app and a list of all room categories which allow users to control devices individually.
+There is also a drawer menu present for more accessibility.
 
-This project is a starting point for a Flutter application.
+# [Watch it on YouTube <a href="https://twitter.com/JamilShahbaj"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/youtube-circle.png" height="30"></a>](https://youtu.be/TovttAgEmC4)
 
-A few resources to get you started if this is your first Flutter project:
+# [Watch it on Instagram <a href="https://instagram.com/strength_code"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/instagram-circle.png" height="30"></a>](https://instagram.com/strength_code)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Created by
+### Shahbaj Jamil
+ #Flutter, #Android Developer, #ios.
+ 
+<a href="https://www.instagram.com/shahbaj_jamil"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/instagram-circle.png" width="60"></a>   <a href="https://www.facebook.com/shahbaj.jamil"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/facebook-circle.png" width="60"></a>   <a href="https://twitter.com/JamilShahbaj"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/twitter-circle.png" width="60"></a>   <a href="https://youtu.be/3_W5BW2aqCQ"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/youtube-circle.png" width="60"></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
